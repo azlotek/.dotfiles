@@ -554,6 +554,8 @@ eval "$(zoxide init bash)"
 unset OS_TYPE
 unset my_laptop
 
+# foo
+
 # Local variables:
 # mode: shell-script
 # sh-basic-offset: 4
